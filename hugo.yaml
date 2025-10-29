@@ -1,0 +1,33 @@
+baseURL: https://ansonzhin.com/
+languageCode: en-us
+title: Anson Kong 鄺梓軒
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "早晨！"
+    Content: |-
+      I'm Anson, currently a final-year student at the University of Cambridge studying Economics. 
+      
+      I build things at the intersection of data, economics, and design. 
+      
+      Below are some of my favourite projects, enjoy!
+  socialIcons:
+    - name: github
+      url: "https://github.com/Hotstopper"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/anson-kongtszhin/"
+  assets:
+    favicon: "assets/image.png"
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: projects
+    name: Projects
+    url: /projects/
+    weight: 20
+
