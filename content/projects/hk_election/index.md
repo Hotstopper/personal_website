@@ -1,5 +1,5 @@
 ---
-title: "HK Election Analysis"
+title: "Hong Kong Election Analysis"
 date: 2025-04-07
 draft: false
 ---
