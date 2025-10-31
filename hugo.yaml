@@ -10,6 +10,8 @@ params:
       I'm Anson, currently a final-year student at the University of Cambridge studying Economics. 
       
       I build things at the intersection of data, economics, and design. 
+
+      I also have some thoughts on philosophy, politics, and culture.
       
       Below are some of my favourite projects, enjoy!
   socialIcons:
@@ -26,8 +28,12 @@ menu:
     name: Home
     url: /
     weight: 10
+  - identifier: thoughts
+    name: Thoughts
+    url: /thoughts/
+    weight: 20
   - identifier: projects
     name: Projects
     url: /projects/
-    weight: 20
+    weight: 30
 
