@@ -1,0 +1,6 @@
+{{ $name := .Get 0 }}
+{{ $url  := .Get 1 }}
+
+<a href="{{ $url }}" target="_blank" rel="noopener" class="social-icon">
+  {{ partial "svg.html" (dict "name" $name) }}
+</a>
