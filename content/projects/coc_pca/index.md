@@ -18,4 +18,6 @@ The Second Principal Component has a coefficient of 0.65 on range but -0.026 on 
 The results are plotted below.
 {{< figure src="coc.png" alt="PCA of Clash of Clans Troop Attributes" caption="PCA of Clash of Clans Troop Attributes" >}}
 
+For more details, feel free to visit my GitHub repository linked above.
+
 ---
