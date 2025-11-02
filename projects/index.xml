@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on Anson Kong 鄺梓軒</title><link>https://ansonzhin.com/projects/</link><description>Recent content in Projects on Anson Kong 鄺梓軒</description><generator>Hugo -- 0.149.0</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ansonzhin.com/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Predicting SX5E Dividends using Futures and Fundamentals</title><link>https://ansonzhin.com/projects/sx5e_dividends/</link><pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><guid>https://ansonzhin.com/projects/sx5e_dividends/</guid><description>&lt;a href="https://github.com/Hotstopper/sx5e_dividends" target="_blank" rel="noopener" class="social-icon"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on Anson Kong 鄺梓軒</title><link>https://ansonzhin.com/projects/</link><description>Recent content in Projects on Anson Kong 鄺梓軒</description><generator>Hugo -- 0.149.0</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ansonzhin.com/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>SX5E Dividends Forecasting</title><link>https://ansonzhin.com/projects/sx5e_dividends/</link><pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><guid>https://ansonzhin.com/projects/sx5e_dividends/</guid><description>&lt;a href="https://github.com/Hotstopper/sx5e_dividends" target="_blank" rel="noopener" class="social-icon"&gt;
 &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
 stroke-linecap="round" stroke-linejoin="round"&gt;
 &lt;path
@@ -6,8 +6,11 @@ d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54
 &lt;/path&gt;
 &lt;/svg&gt;
 &lt;/a&gt;
-&lt;p&gt;Coming Soon&lt;/p&gt;
-&lt;hr&gt;</description></item><item><title>BTC Regimes</title><link>https://ansonzhin.com/projects/btc_regimes/</link><pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><guid>https://ansonzhin.com/projects/btc_regimes/</guid><description>&lt;a href="https://github.com/Hotstopper/btc_halving" target="_blank" rel="noopener" class="social-icon"&gt;
+&lt;p&gt;I first modelled dividends per share (DPS) for EUROSTOXX 50 companies using a simple ARIMA model that only looks at each firm’s past dividends.
+&lt;figure&gt;
+&lt;img loading="lazy" src="arima_forecast.png"
+alt="Forecast Percentage Error Distribution of ARIMA"/&gt; &lt;figcaption&gt;
+&lt;p&gt;Forecast Percentage Error Distribution of ARIMA&lt;/p&gt;</description></item><item><title>BTC Regimes</title><link>https://ansonzhin.com/projects/btc_regimes/</link><pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><guid>https://ansonzhin.com/projects/btc_regimes/</guid><description>&lt;a href="https://github.com/Hotstopper/btc_halving" target="_blank" rel="noopener" class="social-icon"&gt;
 &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
 stroke-linecap="round" stroke-linejoin="round"&gt;
 &lt;path
