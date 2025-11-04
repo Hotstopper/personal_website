@@ -19,4 +19,6 @@ The machine-learning model (XGBoost) is trained on residuals (Actual DPS - Futur
 
 The hybrid model outperforms pure futures-implied forecasts. However, this is mostly due to the systematic underestimation of DPS based on futures. The hybrid model's coefficient for predicted residuals is near zero, while its coefficient for futures-implied DPS is greater than 1. The fact that predicted residuals were largely noise vindicates the semi-strong efficient market hypothesis, though the systematic underestimation remains to be explained.
 
+For more details, feel free to visit my GitHub repository linked above.
+
 ---
