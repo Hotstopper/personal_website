@@ -66,7 +66,7 @@ Overall, the 2019 election reflected a city-wide rise in pan-democratic sentimen
 
 Even after accounting for demographics, regional differences remain visible.
 
-Kowloon and the New Territoriesshow higher pan-democratic vote shares than Hong Kong Island, which serves as the baseline.
+Kowloon and the New Territories show higher pan-democratic vote shares than Hong Kong Island, which serves as the baseline.
 
 These areas combine dense new-town populations, strong transport connectivity, and strong local networks.
 
